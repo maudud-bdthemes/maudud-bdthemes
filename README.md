@@ -96,10 +96,10 @@ A modern WordPress theme.
 
 ---
 
-## 🏢 Web Developer — Synergy Force
+## 🏢 Web Developer — ART-SoftIT
 
 📍 Dhaka, Bangladesh
-🗓 February 2018 – April 2018
+🗓 February 2024 – April 2025
 
 ### Technologies
 
@@ -108,7 +108,7 @@ Database: MySQL
 
 ### Project
 
-**MissingPieces**
+**buyer**
 An eCommerce platform.
 
 ---
