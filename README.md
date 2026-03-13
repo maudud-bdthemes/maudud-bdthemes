@@ -8,7 +8,7 @@ My main expertise lies in **WordPress development, plugin architecture, and full
 I enjoy building scalable software solutions and contributing to innovative web products.
 
 📍 Bogura, Bangladesh
-🏢 Working at **wowDevs**
+🏢 Working at **Sigmative (formerly BdThemes)**
 
 ---
 
@@ -58,10 +58,10 @@ I enjoy building scalable software solutions and contributing to innovative web 
 
 # 💼 Professional Experience
 
-## 🏢 Senior Software Engineer — BdThemes Limited
+## 🏢 Software Engineer — BdThemes Limited
 
 📍 Bogura, Bangladesh
-🗓 November 2019 – February 2025
+🗓 October 3, 2020 – Continue
 
 ### Key Technologies
 
