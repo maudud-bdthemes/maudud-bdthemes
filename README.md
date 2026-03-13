@@ -13,7 +13,9 @@ I enjoy building scalable software solutions and contributing to innovative web 
 | :---------- | :--------- |
 | Bogura, Bangladesh | **BdThemes** |
 
-**[🔗 WordPress.org Profile — Plugins & contributions](https://profiles.wordpress.org/maudud/#content-plugins)**
+[![WordPress.org Profile](https://img.shields.io/badge/WordPress.org-Profile_%26_Plugins-21759B?style=for-the-badge&logo=wordpress)](https://profiles.wordpress.org/maudud/#content-plugins)
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </div>
 
@@ -204,7 +206,6 @@ Database: MySQL / MariaDB
 
 | | |
 | :--- | :--- |
-| **🔗 WordPress.org Profile** | **[Plugins & contributions →](https://profiles.wordpress.org/maudud/#content-plugins)** |
 | 🌐 **Website** | https://bdthemes.com |
 | 📧 **Email** | [maudud.bdthemes@gmail.com](mailto:maudud.bdthemes@gmail.com) |
 | 📱 **WhatsApp / Phone** | +880 172 237 6265 |
