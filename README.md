@@ -105,7 +105,7 @@ Databases: MySQL, MariaDB
 | **Pixel Gallery** | Grid-based gallery plugin for WordPress | [wordpress.org](https://wordpress.org/plugins/pixel-gallery/) |
 | **Spin Wheel** | Interactive spinning wheel that offers coupons | [wordpress.org](https://wordpress.org/plugins/spin-wheel/) |
 | **Live Copy Paste** | Cross Domain Copy Paste & Page Duplicator | [wordpress.org](https://wordpress.org/plugins/live-copy-paste/) |
-| **Rooten** | A modern WordPress theme. | — |
+| **Rooten** | A modern WordPress theme. | [bdthemes](https://bdthemes.com/rooten//) |
 
 ---
 
