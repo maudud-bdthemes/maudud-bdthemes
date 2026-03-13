@@ -15,8 +15,6 @@ I enjoy building scalable software solutions and contributing to innovative web 
 
 [![WordPress.org Profile](https://img.shields.io/badge/WordPress.org-Profile_%26_Plugins-21759B?style=for-the-badge&logo=wordpress)](https://profiles.wordpress.org/maudud/#content-plugins)
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
 </div>
 
 ---
@@ -34,54 +32,7 @@ I enjoy building scalable software solutions and contributing to innovative web 
 
 ## 🛠 Core Technologies
 
-<details open>
-<summary><b>Programming Languages</b></summary>
-
-| | |
-| :--- | :--- |
-| PHP | JavaScript |
-| C / C++ | HTML |
-| CSS | jQuery |
-| ReactJS | NextJS |
-
-</details>
-
-<details>
-<summary><b>UI / Design Frameworks</b></summary>
-
-| | |
-| :--- | :--- |
-| Bootstrap | UIkit |
-| Tailwind CSS | |
-
-</details>
-
-<details>
-<summary><b>CMS</b></summary>
-
-| | |
-| :--- | :--- |
-| WordPress | |
-
-</details>
-
-<details>
-<summary><b>Version Control</b></summary>
-
-| | |
-| :--- | :--- |
-| Git | SVN |
-
-</details>
-
-<details>
-<summary><b>Currently Learning</b></summary>
-
-| | |
-| :--- | :--- |
-| NextJS | Gutenberg Block Development |
-
-</details>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 ---
 
