@@ -171,8 +171,8 @@ Database: MySQL / MariaDB
 
 | Category | Tools |
 | :------- | :---- |
-| **Development Tools** | VS Code, Sublime Text, NetBeans, Eclipse, Atom |
-| **Database Tools** | DataGrip, HeidiSQL, phpMyAdmin, MySQL Workbench |
+| **Development Tools** | VS Code, Sublime Text, Cursor, Windsurf |
+| **Database Tools** | phpMyAdmin, MySQL Workbench |
 | **Servers** | Apache, Nginx |
 | **Operating Systems** | Windows, Linux, macOS |
 | **Design Tools** | Adobe Photoshop, Figma |
