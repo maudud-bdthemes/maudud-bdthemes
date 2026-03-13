@@ -30,7 +30,7 @@ I enjoy building scalable software solutions and contributing to innovative web 
 
 ## 🛠 Core Technologies
 
-<details>
+<details open>
 <summary><b>Programming Languages</b></summary>
 
 | | |
