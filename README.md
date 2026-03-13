@@ -13,6 +13,8 @@ I enjoy building scalable software solutions and contributing to innovative web 
 | :---------- | :--------- |
 | Bogura, Bangladesh | **BdThemes** |
 
+**[🔗 WordPress.org Profile — Plugins & contributions](https://profiles.wordpress.org/maudud/#content-plugins)**
+
 </div>
 
 ---
@@ -202,6 +204,7 @@ Database: MySQL / MariaDB
 
 | | |
 | :--- | :--- |
+| **🔗 WordPress.org Profile** | **[Plugins & contributions →](https://profiles.wordpress.org/maudud/#content-plugins)** |
 | 🌐 **Website** | https://bdthemes.com |
 | 📧 **Email** | [maudud.bdthemes@gmail.com](mailto:maudud.bdthemes@gmail.com) |
 | 📱 **WhatsApp / Phone** | +880 172 237 6265 |
