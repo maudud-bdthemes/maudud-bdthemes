@@ -2,13 +2,13 @@
 
 💻 **Software Engineer | WordPress Specialist | Full-Stack Developer**
 
-I have **8+ years of professional experience** working with modern web technologies.
+I have **5+ years of professional experience** working with modern web technologies.
 My main expertise lies in **WordPress development, plugin architecture, and full-stack web applications**.
 
 I enjoy building scalable software solutions and contributing to innovative web products.
 
 📍 Bogura, Bangladesh
-🏢 Working at **Sigmative (formerly BdThemes)**
+🏢 Working at **BdThemes**
 
 ---
 
@@ -32,6 +32,7 @@ I enjoy building scalable software solutions and contributing to innovative web 
 * CSS
 * jQuery
 * ReactJS
+* NextJS
 
 ## UI / Design Frameworks
 
@@ -50,8 +51,7 @@ I enjoy building scalable software solutions and contributing to innovative web 
 
 ## Currently Learning
 
-* ReactJS
-* Shell Script
+* NextJS
 * Gutenberg Block Development
 
 ---
@@ -71,40 +71,28 @@ Databases: MySQL, MariaDB
 ### Projects
 
 **Element Pack**
-Powerful Elementor addon plugin for WordPress.
+Powerful Elementor addon plugin for WordPress - https://wordpress.org/plugins/bdthemes-element-pack-lite/
 
 **Prime Slider**
-A flexible slider builder for WordPress.
+A flexible slider builder for WordPress - https://wordpress.org/plugins/bdthemes-prime-slider-lite/
 
 **Ultimate Post Kit**
-A plugin offering advanced post layouts.
+A plugin offering advanced post layouts - https://wordpress.org/plugins/ultimate-post-kit/
 
 **Ultimate Store Kit**
-A WooCommerce store builder plugin.
+A WooCommerce store builder plugin - https://wordpress.org/plugins/ultimate-store-kit/
 
 **Pixel Gallery**
-Grid-based gallery plugin for WordPress.
+Grid-based gallery plugin for WordPress - https://wordpress.org/plugins/pixel-gallery/
 
-**Rooten Pro**
+**Spin Wheel**
+Interactive spinning wheel that offers coupons - https://wordpress.org/plugins/spin-wheel/
+
+**Live Copy Paste**
+Cross Domain Copy Paste & Page Duplicator - https://wordpress.org/plugins/live-copy-paste/
+
+**Rooten**
 A modern WordPress theme.
-
----
-
-## 🏢 Senior Software Engineer — Workifyd Pvt. Co. Ltd.
-
-📍 New Delhi, India
-🗓 May 2018 – October 2019
-
-### Technologies
-
-HTML, CSS, JavaScript, jQuery, Java
-Database: MySQL
-Framework: Spring Framework
-
-### Project
-
-**Workifyd**
-A platform designed for freelancers.
 
 ---
 
@@ -125,13 +113,27 @@ An eCommerce platform.
 
 ---
 
-## 🏢 Software Engineer — CSL Training
+## 🏢 Freelance Payment Gateway Developer
 
-📍 Bogura, Bangladesh
-🗓 May 2017 – January 2018
+Worked as a freelance developer on a payment gateway project.
 
-Technologies used:
-HTML, CSS, JavaScript, jQuery, PHP
+📍 Remote  
+🗓 May 2022 – July 2022
+
+Technologies used:  
+HTML, CSS, JavaScript, jQuery, PHP  
+Database: MySQL / MariaDB
+
+
+## 🏢 Freelance Courier API Integration
+
+Worked as a freelance developer on a courier API integration project.
+
+📍 Remote  
+🗓 April 2022 – August 2022
+
+Technologies used:  
+HTML, CSS, JavaScript, jQuery, PHP  
 Database: MySQL / MariaDB
 
 ---
@@ -181,11 +183,11 @@ FileZilla, WinSCP
 
 ## Task Management
 
-ClickUp, Jira
+ClickUp, Jira, Dart
 
 ## Communication
 
-Slack, Skype, Discord
+Discord, Slack
 
 ---
 
@@ -198,8 +200,6 @@ Slack, Skype, Discord
 | C# with ASP.NET MVC                        | CSL Training   | 4 Months |
 | Web Design & Applications Development      | CSL Training   | 4 Months |
 | Web Design & WordPress Themes Development  | Soro Bindu     | 6 Months |
-| Technical SEO                              | Talha Training | 6 Months |
-| Android Apps Development by Java           | Smart Software | 3 Months |
 | Visual Basic 6.0                           | Smart Software | 6 Months |
 | C / C++ Basics                             | Smart Software | 2 Months |
 
@@ -207,13 +207,10 @@ Slack, Skype, Discord
 
 # 📬 Contact & Links
 
-🌐 Website: https://wowdevs.com
-📧 Email: [bdkoder@gmail.com](mailto:bdkoder@gmail.com)
-👨‍💻 WordPress Profile: https://profiles.wordpress.org/bdkoder/
-🔗 LinkedIn: in/bdkoder
-🐦 Twitter: @bdkoder
+🌐 Website: https://bdthemes.com
+📧 Email: [maudud.bdthemes@gmail.com](mailto:maudud.bdthemes@gmail.com)
 
-📱 WhatsApp / Phone: +880 179 333 0005
+📱 WhatsApp / Phone: +880 172 237 6265
 
 ---
 
